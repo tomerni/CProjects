@@ -1,0 +1,3 @@
+/mnt/c/Users/tomer/Google Drive (tomer.nissim@mail.huji.ac.il)/First year/Semester B/c + c++/Week 2/Ex1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/tomer/Google Drive (tomer.nissim@mail.huji.ac.il)/First year/Semester B/c + c++/Week 2/Ex1/cmake-build-debug/CMakeFiles/Ex1.dir
+/mnt/c/Users/tomer/Google Drive (tomer.nissim@mail.huji.ac.il)/First year/Semester B/c + c++/Week 2/Ex1/cmake-build-debug/CMakeFiles/edit_cache.dir

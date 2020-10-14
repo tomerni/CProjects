@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/tomer/Google Drive (tomer.nissim@mail.huji.ac.il)/First year/Semester B/c + c++/Week 2/Ex1/manageStudents.c
+stdio.h
+-
+string.h
+-
+ctype.h
+-
+

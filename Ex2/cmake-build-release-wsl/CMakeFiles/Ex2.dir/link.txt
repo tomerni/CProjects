@@ -1,0 +1,1 @@
+/usr/bin/gcc -Wall -Wvla -Wextra -std=c99 -lm -O3 -DNDEBUG   CMakeFiles/Ex2.dir/RailWayPlanner.c.o  -o Ex2 

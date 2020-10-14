@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/tomer/Google Drive (tomer.nissim@mail.huji.ac.il)/First year/Semester B/c + c++/Week 3/Ex2/RailWayPlanner.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+limits.h
+/mnt/c/Users/tomer/Google Drive (tomer.nissim@mail.huji.ac.il)/First year/Semester B/c + c++/Week 3/Ex2/limits.h
+

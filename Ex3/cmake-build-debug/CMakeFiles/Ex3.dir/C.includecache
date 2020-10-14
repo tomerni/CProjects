@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/tomer/Google Drive (tomer.nissim@mail.huji.ac.il)/First year/Semester B/c + c++/Week 6/Ex3/RBTree.c
+string.h
+-
+stdlib.h
+-
+RBTree.h
+/mnt/c/Users/tomer/Google Drive (tomer.nissim@mail.huji.ac.il)/First year/Semester B/c + c++/Week 6/Ex3/RBTree.h
+
+/mnt/c/Users/tomer/Google Drive (tomer.nissim@mail.huji.ac.il)/First year/Semester B/c + c++/Week 6/Ex3/RBTree.h
+
+/mnt/c/Users/tomer/Google Drive (tomer.nissim@mail.huji.ac.il)/First year/Semester B/c + c++/Week 6/Ex3/Structs.c
+string.h
+-
+stdlib.h
+-
+Structs.h
+/mnt/c/Users/tomer/Google Drive (tomer.nissim@mail.huji.ac.il)/First year/Semester B/c + c++/Week 6/Ex3/Structs.h
+
+/mnt/c/Users/tomer/Google Drive (tomer.nissim@mail.huji.ac.il)/First year/Semester B/c + c++/Week 6/Ex3/Structs.h
+RBTree.h
+/mnt/c/Users/tomer/Google Drive (tomer.nissim@mail.huji.ac.il)/First year/Semester B/c + c++/Week 6/Ex3/RBTree.h
+
+/mnt/c/Users/tomer/Google Drive (tomer.nissim@mail.huji.ac.il)/First year/Semester B/c + c++/Week 6/Ex3/in/EdgeCases.c
+stdlib.h
+-
+stdio.h
+-
+RBTree.h
+/mnt/c/Users/tomer/Google Drive (tomer.nissim@mail.huji.ac.il)/First year/Semester B/c + c++/Week 6/Ex3/in/RBTree.h
+
+/mnt/c/Users/tomer/Google Drive (tomer.nissim@mail.huji.ac.il)/First year/Semester B/c + c++/Week 6/Ex3/in/RBTree.h
+

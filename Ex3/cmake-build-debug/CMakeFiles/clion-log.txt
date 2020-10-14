@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/mnt/c/Users/tomer/Google Drive (tomer.nissim@mail.huji.ac.il)/First year/Semester B/c + c++/Week 6/Ex3"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/Users/tomer/Google Drive (tomer.nissim@mail.huji.ac.il)/First year/Semester B/c + c++/Week 6/Ex3/cmake-build-debug

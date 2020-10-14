@@ -1,0 +1,1 @@
+/usr/bin/gcc -Wall -Wvla -Wextra -std=c99 -lm -O3 -DNDEBUG   CMakeFiles/Ex1.dir/manageStudents.c.o  -o Ex1 

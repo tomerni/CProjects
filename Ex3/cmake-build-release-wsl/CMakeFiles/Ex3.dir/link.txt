@@ -1,0 +1,1 @@
+/usr/bin/gcc -Wall -Wvla -Wextra -std=c99 -lm -O3 -DNDEBUG   CMakeFiles/Ex3.dir/Structs.c.o CMakeFiles/Ex3.dir/RBTree.c.o CMakeFiles/Ex3.dir/in/EdgeCases.c.o  -o Ex3 

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Ex1.dir/manageStudents.c.o  -o Ex1 
